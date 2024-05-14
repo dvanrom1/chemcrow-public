@@ -24,7 +24,7 @@ setup(
         "openai==0.27.8",
         "molbloom",
         "paper-qa==1.1.1",
-        "google-search-results",
+        "google-search-results>=1.6.0",
         "langchain>=0.0.234,<=0.0.275",
         "langchain_core==0.0.1",
         "nest_asyncio",
